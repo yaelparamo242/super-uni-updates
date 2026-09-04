@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "channel": "stable",
-  "notes": "Agrega versión visible, respaldos manuales y automáticos, retención de 30 copias, restauración con PIN y respaldo automático antes de futuras actualizaciones.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.2.zip",
-  "sha256": "a02213476c2e928152d764b685ce4a7ecc1a6f8c33082743d2c05587ba551ae6"
+  "notes": "Corrige la recarga de interfaz después de actualizar, agrega reinicio correcto del servidor y mantiene el módulo de respaldos/restauración.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.3.zip",
+  "sha256": "1178e43486ec11fbcafa917632bdacaf95c4d1d37d3597626703591c9f2b75a2"
 }
