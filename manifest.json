@@ -1,7 +1,7 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "channel": "stable",
-  "notes": "Corrige la recarga de interfaz después de actualizar, agrega reinicio correcto del servidor y mantiene el módulo de respaldos/restauración.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.3.zip",
-  "sha256": "1178e43486ec11fbcafa917632bdacaf95c4d1d37d3597626703591c9f2b75a2"
+  "notes": "Enter en inicio de sesión, navegación F3-F11, permisos simplificados para cajeros y nuevo corte de caja con efectivo, tarjeta, transferencias y salidas.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.4.zip",
+  "sha256": "392060419e6f558f6f73c812ced43a387c507039245518f8bc76cf50714a3b49"
 }
