@@ -1,0 +1,7 @@
+{
+  "version": "0.5.1",
+  "channel": "stable",
+  "notes": "Primera prueba del canal de actualizaciones automáticas de SUPER-UNI POS.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.1.zip",
+  "sha256": "3b6ee7afd85d045e074fdd1612822dbcdd1c9a7b53e914bc26e699bd88c8985e"
+}
