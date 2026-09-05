@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "channel": "stable",
-  "notes": "Enter en inicio de sesión, navegación F3-F11, permisos simplificados para cajeros y nuevo corte de caja con efectivo, tarjeta, transferencias y salidas.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.4.zip",
-  "sha256": "392060419e6f558f6f73c812ced43a387c507039245518f8bc76cf50714a3b49"
+  "notes": "Flechas/Enter en buscadores, cambio de turno sin cerrar la app, previsualización de corte y stock negativo permitido.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.5.zip",
+  "sha256": "6e8d6074ba7049d7c45c867ea933955057eb1f89cedba7327bccfbff5ee24ab2"
 }
