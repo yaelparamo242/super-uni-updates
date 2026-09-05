@@ -1,7 +1,7 @@
 {
-  "version": "0.5.8",
+  "version": "0.5.9",
   "channel": "stable",
-  "notes": "Nueva interfaz automática para teléfono enfocada en inventario. Permite iniciar un inventariado por proveedor, registrar todos los movimientos como un comprobante continuo y enviarlo por correo al finalizar.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.8.zip",
-  "sha256": "0d97e986f0f60b659c25209a2ca1094988890630844ea1ba67d0df11e84a16db"
+  "notes": "Carga inicial de catalogo: Bonafont, Sabritas, Bimbo y CIGARROS. Productos con proveedor, costo y precio de venta; codigo de barras pendiente y existencia inicial en 0.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.9.zip",
+  "sha256": "e9bc6ce9e2c19ee2faa7154bbe13a6923345114846c60a4027f127aed62a1d54"
 }
