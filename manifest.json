@@ -1,7 +1,7 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "channel": "stable",
-  "notes": "Al iniciar sesión como cajero solicita el fondo inicial y abre su turno automáticamente. Cerrar sesión lleva al corte y al confirmarlo cierra el turno. También prepara el actualizador para cerrar automáticamente el servidor en futuras versiones.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.6.zip",
-  "sha256": "acd6e3db41f3fb81763adc54df4ba863fb0be9f0737c746d53891c866ed4cace"
+  "notes": "Corrige el error de inicio de sesión de la 0.5.6. Ahora el usuario se puede escribir con teclado y tiene sugerencias; Enter pasa al PIN y Enter en PIN inicia sesión.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.7.zip",
+  "sha256": "ca8d8078927b45fef932c4974c831bc04e2f0e04932f02d3895995e7a6bf8c7b"
 }
