@@ -1,7 +1,7 @@
 {
-  "version": "0.5.5",
+  "version": "0.5.6",
   "channel": "stable",
-  "notes": "Flechas/Enter en buscadores, cambio de turno sin cerrar la app, previsualización de corte y stock negativo permitido.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.5.zip",
-  "sha256": "6e8d6074ba7049d7c45c867ea933955057eb1f89cedba7327bccfbff5ee24ab2"
+  "notes": "Al iniciar sesión como cajero solicita el fondo inicial y abre su turno automáticamente. Cerrar sesión lleva al corte y al confirmarlo cierra el turno. También prepara el actualizador para cerrar automáticamente el servidor en futuras versiones.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.6.zip",
+  "sha256": "acd6e3db41f3fb81763adc54df4ba863fb0be9f0737c746d53891c866ed4cace"
 }
