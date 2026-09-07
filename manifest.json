@@ -1,7 +1,7 @@
 {
-  "version": "0.6.4",
+  "version": "0.6.5",
   "channel": "stable",
-  "notes": "F6 ahora tiene un ticket completo para comparar proveedor vs mayorista y calcular ahorro total. El inventariado móvil conserva el comprobante, lo envía por Gmail y permite compartirlo por WhatsApp desde el teléfono.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.4.zip",
-  "sha256": "04f92a4d22b23fc71b14a6e34b6740d18b711992be59d6a366b65182561c40f4"
+  "notes": "Inventario móvil: botón para escanear código de barras con cámara y opción Buscar/Escribir. Al detectar un código, lo pasa directo al buscador y abre el producto si encuentra coincidencia exacta.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.5.zip",
+  "sha256": "a61737f5e52145ee93ec707574d5ffc619d9383f18eed332416310874aae73fb"
 }
