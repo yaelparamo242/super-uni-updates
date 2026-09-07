@@ -1,7 +1,7 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "channel": "stable",
-  "notes": "Nuevo catálogo por proveedor: lista de proveedores y, al entrar, tabla completa con código de barras, nombre, costo, precio de venta y estado COMPLETO/PENDIENTE.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.2.zip",
-  "sha256": "5ec16cb2397a3cd1e6ca7903a9803a844f467b8b6cbe3fe8f88f22d6f13c5ad7"
+  "notes": "Corrige el catálogo por proveedor: ahora cada proveedor abre correctamente su lista completa de productos y el botón Editar funciona desde la tabla.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.3.zip",
+  "sha256": "d8c474871b5e9b23bff0619c56c55462789a16e7942fdc033e4ff79d98f14c83"
 }
