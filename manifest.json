@@ -1,7 +1,7 @@
 {
-  "version": "0.6.6",
+  "version": "0.6.7",
   "channel": "stable",
-  "notes": "Escáner móvil mejorado para iPhone: al tocar Escanear abre la cámara nativa, lee EAN-13/UPC-A desde la foto y manda el código automáticamente al buscador/producto. La búsqueda manual sigue disponible.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.6.zip",
-  "sha256": "8ee328c2d00edf080f5e5101faf21e89897b08b75115692a938bc5ac027a8cd5"
+  "notes": "Modo teléfono: nueva opción Agregar producto nuevo. Permite escanear o escribir código de barras, nombre, proveedor, costo, precio de venta, existencia, stock mínimo, presentación y categoría.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.7.zip",
+  "sha256": "c4c2f0a1dc4be57d3bbe1a92dd33dd698517d438666b0997230b5c8cc0d72e9a"
 }
