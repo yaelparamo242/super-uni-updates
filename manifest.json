@@ -1,7 +1,7 @@
 {
-  "version": "0.6.5",
+  "version": "0.6.6",
   "channel": "stable",
-  "notes": "Inventario móvil: botón para escanear código de barras con cámara y opción Buscar/Escribir. Al detectar un código, lo pasa directo al buscador y abre el producto si encuentra coincidencia exacta.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.5.zip",
-  "sha256": "a61737f5e52145ee93ec707574d5ffc619d9383f18eed332416310874aae73fb"
+  "notes": "Escáner móvil mejorado para iPhone: al tocar Escanear abre la cámara nativa, lee EAN-13/UPC-A desde la foto y manda el código automáticamente al buscador/producto. La búsqueda manual sigue disponible.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.6.zip",
+  "sha256": "8ee328c2d00edf080f5e5101faf21e89897b08b75115692a938bc5ac027a8cd5"
 }
