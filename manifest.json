@@ -1,7 +1,7 @@
 {
-  "version": "0.6.7",
+  "version": "0.6.8",
   "channel": "stable",
-  "notes": "Modo teléfono: nueva opción Agregar producto nuevo. Permite escanear o escribir código de barras, nombre, proveedor, costo, precio de venta, existencia, stock mínimo, presentación y categoría.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.7.zip",
-  "sha256": "c4c2f0a1dc4be57d3bbe1a92dd33dd698517d438666b0997230b5c8cc0d72e9a"
+  "notes": "Reparación urgente: restaura perfiles/usuarios del inicio, Enter, F2-F12 y demás interacción. Corrige referencias del módulo móvil que podían detener todo el JavaScript.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.8.zip",
+  "sha256": "a196d78d0ebb6ab33940c07c7e10e37f4a579b2af098884d1e89ad19383ae07b"
 }
