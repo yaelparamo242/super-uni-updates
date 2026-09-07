@@ -1,7 +1,7 @@
 {
-  "version": "0.6.3",
+  "version": "0.6.4",
   "channel": "stable",
-  "notes": "Corrige el catálogo por proveedor: ahora cada proveedor abre correctamente su lista completa de productos y el botón Editar funciona desde la tabla.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.3.zip",
-  "sha256": "d8c474871b5e9b23bff0619c56c55462789a16e7942fdc033e4ff79d98f14c83"
+  "notes": "F6 ahora tiene un ticket completo para comparar proveedor vs mayorista y calcular ahorro total. El inventariado móvil conserva el comprobante, lo envía por Gmail y permite compartirlo por WhatsApp desde el teléfono.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.4.zip",
+  "sha256": "04f92a4d22b23fc71b14a6e34b6740d18b711992be59d6a366b65182561c40f4"
 }
