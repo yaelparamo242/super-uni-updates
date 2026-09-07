@@ -1,7 +1,7 @@
 {
-  "version": "0.5.9",
+  "version": "0.6.2",
   "channel": "stable",
-  "notes": "Carga inicial de catalogo: Bonafont, Sabritas, Bimbo y CIGARROS. Productos con proveedor, costo y precio de venta; codigo de barras pendiente y existencia inicial en 0.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.5.9.zip",
-  "sha256": "e9bc6ce9e2c19ee2faa7154bbe13a6923345114846c60a4027f127aed62a1d54"
+  "notes": "Nuevo catálogo por proveedor: lista de proveedores y, al entrar, tabla completa con código de barras, nombre, costo, precio de venta y estado COMPLETO/PENDIENTE.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.2.zip",
+  "sha256": "5ec16cb2397a3cd1e6ca7903a9803a844f467b8b6cbe3fe8f88f22d6f13c5ad7"
 }
