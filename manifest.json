@@ -1,7 +1,7 @@
 {
-  "version": "0.6.9",
+  "version": "0.7.0",
   "channel": "stable",
-  "notes": "Corrige el modo teléfono: vuelve a aparecer y funcionar Agregar producto nuevo con código escaneado/manual, proveedor, costo, venta y existencia; conserva la reparación de teclado y usuarios de 0.6.8.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.6.9.zip",
-  "sha256": "98ec1522d74bdef0ea986878fdb74896e392dea55a392b8a4995a70409ad6a93"
+  "notes": "Resumen semanal visual en computadora: ventas, ganancia, margen, pastel, Top 10 y ventas por trabajador. Móvil: Costo.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.7.0.zip",
+  "sha256": "dea166e7e5fc55b8269787f0c1124e8e051b1a5abbd503715b8a04650f008fbd"
 }
