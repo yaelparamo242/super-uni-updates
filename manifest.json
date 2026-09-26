@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "channel": "stable",
-  "notes": "Panel privado ADMIN en teléfono con Hoy/Semana/Mes, ventas, ganancia, margen, tickets, Top 10 y ventas por trabajador. QR de trabajadores intacto.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.7.1.zip",
-  "sha256": "56f1298cf4b4188cd52f1e67764252eb83fafb352905610d0e5b9bbda3a80181"
+  "notes": "Productos: Agregar producto y Agregar proveedor. Proveedores personalizados persistentes.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.7.2.zip",
+  "sha256": "445affd42df91500293a969e712bbe2b950c31317fee17ca59a7dda2bbfc10d1"
 }
