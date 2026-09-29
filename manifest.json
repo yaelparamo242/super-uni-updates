@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2",
+  "version": "0.8.0",
   "channel": "stable",
-  "notes": "Productos: Agregar producto y Agregar proveedor. Proveedores personalizados persistentes.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.7.2.zip",
-  "sha256": "445affd42df91500293a969e712bbe2b950c31317fee17ca59a7dda2bbfc10d1"
+  "notes": "Interfaz POS mejorada: alerta visual de código duplicado, ticket navegable con flechas y +/- para cantidades, F1 Venta, foco automático, reportes por semana/mes/día, corte ampliado, permisos por cajero y pantalla completa.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.0.zip",
+  "sha256": "39d3b8f7d54bb2c86d49be15402105651aa336b73c7fbe803b4e945f3d4ef0ac"
 }
