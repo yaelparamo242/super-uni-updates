@@ -1,7 +1,7 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "channel": "stable",
-  "notes": "Interfaz compacta; Productos por secciones con departamentos/promociones; Configuración por módulos; Corte simplificado; Reportes por pestañas.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.2.zip",
-  "sha256": "4c1cca1dc56c89dc6099fcaa70283994a603d4955c7a48a339948a75072b6c52"
+  "notes": "Asistente de configuración Mercado Pago Point integrado en SUPER-UNI.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.3.zip",
+  "sha256": "18930c6f5ecf085f3444f7a53c942e29ab265f7f0315b45d13401baf73b77b0f"
 }
