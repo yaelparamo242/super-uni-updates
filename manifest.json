@@ -1,7 +1,7 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "channel": "stable",
-  "notes": "Corrección de rutas de Mercado Pago en backend.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.4.zip",
-  "sha256": "f0fe8cac5f5aec9884657efa62c7b5ecfb542e02b2a89005c916f2e51a90dad8"
+  "notes": "Corrige error urllib en Mercado Pago Point.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.5.zip",
+  "sha256": "7aabbf872d483286c223ba87e2d293e0aeb3d02ea461900136b5a930312d65e4"
 }
