@@ -1,7 +1,7 @@
 {
-  "version": "0.8.3",
+  "version": "0.8.4",
   "channel": "stable",
-  "notes": "Asistente de configuración Mercado Pago Point integrado en SUPER-UNI.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.3.zip",
-  "sha256": "18930c6f5ecf085f3444f7a53c942e29ab265f7f0315b45d13401baf73b77b0f"
+  "notes": "Corrección de rutas de Mercado Pago en backend.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.4.zip",
+  "sha256": "f0fe8cac5f5aec9884657efa62c7b5ecfb542e02b2a89005c916f2e51a90dad8"
 }
