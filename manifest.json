@@ -1,7 +1,7 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "channel": "stable",
-  "notes": "Eliminar producto con confirmación; usuarios/cajeros corregidos; permisos visuales; pantalla completa mejorada.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.1.zip",
-  "sha256": "8cc25d74ec70b7f0412a8571c3d4ecb25dca6a42be3de9c6085b2a5adad01439"
+  "notes": "Interfaz compacta; Productos por secciones con departamentos/promociones; Configuración por módulos; Corte simplificado; Reportes por pestañas.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.2.zip",
+  "sha256": "4c1cca1dc56c89dc6099fcaa70283994a603d4955c7a48a339948a75072b6c52"
 }
