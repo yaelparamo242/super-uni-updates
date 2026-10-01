@@ -1,7 +1,7 @@
 {
-  "version": "0.8.6",
+  "version": "0.8.7",
   "channel": "stable",
-  "notes": "Agrega scroll vertical a Configuración > Mercado Pago para mostrar todos los campos.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.6.zip",
-  "sha256": "e56d1916b7ecc03a1a8b0af70d9e3cf41c8947240d1aa7445fa9e03d2aea3541"
+  "notes": "Proveedores: botón para agregar y eliminar proveedores.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.7.zip",
+  "sha256": "530423ebfbd64835129564629ca707c0f1b59442c51fda8132294c9f6e758daa"
 }
