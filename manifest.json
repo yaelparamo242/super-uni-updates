@@ -1,7 +1,7 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.2",
   "channel": "stable",
-  "notes": "F12 método de pago con calculadora; nombre/icono configurables; edición y borrado de cajeros.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.0.zip",
-  "sha256": "0a33acbed62c695afb1c67da1b3ceb7a1f6ee60358903b98e66ad36097ca78fb"
+  "notes": "Transferencias SPEI Mercado Pago con confirmación automática antes de registrar la venta.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.2.zip",
+  "sha256": "9554e17f40b6c6a1dc21f7b4924fa129b29ba7efd1bc81ddf1b396c6ac2cb159"
 }
