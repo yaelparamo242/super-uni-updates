@@ -1,7 +1,7 @@
 {
-  "version": "0.8.7",
+  "version": "0.8.8",
   "channel": "stable",
-  "notes": "Proveedores: botón para agregar y eliminar proveedores.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.7.zip",
-  "sha256": "530423ebfbd64835129564629ca707c0f1b59442c51fda8132294c9f6e758daa"
+  "notes": "Escaneo solo por código + buscador manual F10 por nombre + sin autocompletado.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.8.zip",
+  "sha256": "8538349945791a673897c659153be0e9f96a6dd151fe4b870c93728f27eab628"
 }
