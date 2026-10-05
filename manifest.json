@@ -1,7 +1,7 @@
 {
-  "version": "0.8.8",
+  "version": "0.8.9",
   "channel": "stable",
-  "notes": "Escaneo solo por código + buscador manual F10 por nombre + sin autocompletado.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.8.zip",
-  "sha256": "8538349945791a673897c659153be0e9f96a6dd151fe4b870c93728f27eab628"
+  "notes": "F10 muestra presentación/gramaje; Compras corrige precio por pieza, ausencia de mayorista y ahorro.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.9.zip",
+  "sha256": "e9ad9b86e6ac832f795a35933dc0feb3c98ab8e54c8baf328186cbc8753ae544"
 }
