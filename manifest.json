@@ -1,7 +1,7 @@
 {
-  "version": "0.8.9",
+  "version": "0.9.0",
   "channel": "stable",
-  "notes": "F10 muestra presentación/gramaje; Compras corrige precio por pieza, ausencia de mayorista y ahorro.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.8.9.zip",
-  "sha256": "e9ad9b86e6ac832f795a35933dc0feb3c98ab8e54c8baf328186cbc8753ae544"
+  "notes": "F12 método de pago con calculadora; nombre/icono configurables; edición y borrado de cajeros.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.0.zip",
+  "sha256": "0a33acbed62c695afb1c67da1b3ceb7a1f6ee60358903b98e66ad36097ca78fb"
 }
