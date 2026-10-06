@@ -1,7 +1,7 @@
 {
-  "version": "0.9.4",
+  "version": "0.9.5",
   "channel": "stable",
-  "notes": "Transferencia con ventana de proceso, rueda animada y confirmación verde automática al acreditarse.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.4.zip",
-  "sha256": "060cf282e1dd4fff7b60df2a83f98720ed27edab23c5a9271b069b89e78ff694"
+  "notes": "Aviso grande para producto inexistente; limpia y reenfoca escáner; ESC cierra F10; permisos completos iniciales para Fernanda.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.5.zip",
+  "sha256": "f8d1e24e7a0a31d38cb2e7c8e1639d08c48a5bd0ad23886f15e4a1bc3c887329"
 }
