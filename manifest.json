@@ -1,7 +1,7 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "channel": "stable",
-  "notes": "Aviso grande para producto inexistente; limpia y reenfoca escáner; ESC cierra F10; permisos completos iniciales para Fernanda.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.5.zip",
-  "sha256": "f8d1e24e7a0a31d38cb2e7c8e1639d08c48a5bd0ad23886f15e4a1bc3c887329"
+  "notes": "Corrige PRODUCTOS > CATÁLOGO en blanco; ahora carga al abrir la pestaña.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.6.zip",
+  "sha256": "b72ae0ab63b92ac13c4d0e10ebae6d96173e50c536a26e5d217fbdc85d332a44"
 }
