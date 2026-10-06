@@ -1,7 +1,7 @@
 {
-  "version": "0.9.2",
+  "version": "0.9.3",
   "channel": "stable",
-  "notes": "Transferencias SPEI Mercado Pago con confirmación automática antes de registrar la venta.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.2.zip",
-  "sha256": "9554e17f40b6c6a1dc21f7b4924fa129b29ba7efd1bc81ddf1b396c6ac2cb159"
+  "notes": "Corrige nombre e icono personalizados dentro de SUPER-UNI y acceso directo de Windows.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.3.zip",
+  "sha256": "85657dbf3ff372b39fb52557c455650195a1c68fffe8bec4397c09e0e38e445a"
 }
