@@ -1,7 +1,7 @@
 {
-  "version": "0.9.6",
+  "version": "0.9.7",
   "channel": "stable",
-  "notes": "Corrige PRODUCTOS > CATÁLOGO en blanco; ahora carga al abrir la pestaña.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.6.zip",
-  "sha256": "b72ae0ab63b92ac13c4d0e10ebae6d96173e50c536a26e5d217fbdc85d332a44"
+  "notes": "Catálogo: editor rápido centrado. ENTER guarda y ESC cancela.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.7.zip",
+  "sha256": "5d6f046236d967d63c078ee3f90d7912b206a4575a2ffd60e9aeccb310d7b6b8"
 }
