@@ -1,7 +1,7 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "channel": "stable",
-  "notes": "Corrige nombre e icono personalizados dentro de SUPER-UNI y acceso directo de Windows.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.3.zip",
-  "sha256": "85657dbf3ff372b39fb52557c455650195a1c68fffe8bec4397c09e0e38e445a"
+  "notes": "Transferencia con ventana de proceso, rueda animada y confirmación verde automática al acreditarse.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.4.zip",
+  "sha256": "060cf282e1dd4fff7b60df2a83f98720ed27edab23c5a9271b069b89e78ff694"
 }
