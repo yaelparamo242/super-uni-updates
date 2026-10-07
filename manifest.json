@@ -1,7 +1,7 @@
 {
-  "version": "0.10.1",
+  "version": "0.10.2",
   "channel": "stable",
-  "notes": "Botón eliminar producto en editor del catálogo, con confirmación.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.1.zip",
-  "sha256": "feac55828c25382d8f596622af3cb99c148742d6d260412569ddf42be17df9e1"
+  "notes": "Catálogos enumerados y ordenados; pendientes abajo, textos completos y cuadrícula ajustada.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.2.zip",
+  "sha256": "c3ebacf5fc385012f2d5af88a233a08e3476b15d12bbd27a461482de95d40c77"
 }
