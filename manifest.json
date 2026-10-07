@@ -1,7 +1,7 @@
 {
-  "version": "0.9.7",
+  "version": "0.9.8",
   "channel": "stable",
-  "notes": "Catálogo: editor rápido centrado. ENTER guarda y ESC cancela.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.7.zip",
-  "sha256": "5d6f046236d967d63c078ee3f90d7912b206a4575a2ffd60e9aeccb310d7b6b8"
+  "notes": "Editor de catálogo centrado tipo F10, más amigable. ENTER guarda y ESC cancela.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.8.zip",
+  "sha256": "107a2d64b258700e1c6dd1e4324a5f3db7320d1b775c26c12dbba4700aa412f5"
 }
