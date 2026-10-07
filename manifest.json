@@ -1,7 +1,7 @@
 {
-  "version": "0.10.2",
+  "version": "0.10.3",
   "channel": "stable",
-  "notes": "Catálogos enumerados y ordenados; pendientes abajo, textos completos y cuadrícula ajustada.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.2.zip",
-  "sha256": "c3ebacf5fc385012f2d5af88a233a08e3476b15d12bbd27a461482de95d40c77"
+  "notes": "Corrección de guardado del editor de catálogo.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.3.zip",
+  "sha256": "0b65460de245104edb1ee6f854e1d18e26e4555a5caa950555e8f62f25de60d7"
 }
