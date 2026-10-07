@@ -1,7 +1,7 @@
 {
-  "version": "0.9.8",
+  "version": "0.9.9",
   "channel": "stable",
-  "notes": "Editor de catálogo centrado tipo F10, más amigable. ENTER guarda y ESC cancela.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.8.zip",
-  "sha256": "107a2d64b258700e1c6dd1e4324a5f3db7320d1b775c26c12dbba4700aa412f5"
+  "notes": "El editor del catálogo ahora permite editar o escanear el código de barras.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.9.zip",
+  "sha256": "129576816612abd23f36cf86efdb61ae19b49f968a93b24ec857898157fb54ce"
 }
