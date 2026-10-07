@@ -1,7 +1,7 @@
 {
-  "version": "0.10.0",
+  "version": "0.10.1",
   "channel": "stable",
-  "notes": "Cierre de turno con recuadro centrado; evita la confirmación del navegador que interrumpe pantalla completa.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.0.zip",
-  "sha256": "2ac1336dee824c3d80f83544a81981ef27092d2f258d7b74e834e4cd7341c37a"
+  "notes": "Botón eliminar producto en editor del catálogo, con confirmación.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.1.zip",
+  "sha256": "feac55828c25382d8f596622af3cb99c148742d6d260412569ddf42be17df9e1"
 }
