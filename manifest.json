@@ -1,7 +1,7 @@
 {
-  "version": "0.9.9",
+  "version": "0.10.0",
   "channel": "stable",
-  "notes": "El editor del catálogo ahora permite editar o escanear el código de barras.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.9.9.zip",
-  "sha256": "129576816612abd23f36cf86efdb61ae19b49f968a93b24ec857898157fb54ce"
+  "notes": "Cierre de turno con recuadro centrado; evita la confirmación del navegador que interrumpe pantalla completa.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.0.zip",
+  "sha256": "2ac1336dee824c3d80f83544a81981ef27092d2f258d7b74e834e4cd7341c37a"
 }
