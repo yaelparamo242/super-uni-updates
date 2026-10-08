@@ -1,7 +1,7 @@
 {
-  "version": "0.10.4",
+  "version": "0.10.5",
   "channel": "stable",
-  "notes": "Avisos visuales, tickets en espera F8, modificar producto por código/F10 y totales de compra corregidos",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.4.zip",
-  "sha256": "4646b2495a807a8e268f3bbdbf2e3ae53f9bfe210a49b6313767570f57b06178"
+  "notes": "Reportes visuales, proveedor, pagos y tickets en espera con folio estable; correcciones de códigos y F10.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.5.zip",
+  "sha256": "d4d6ce8bdf2133ecfb3804f3ca85cdd220a02c3e74bec9b0ca9bda30f8c6e824"
 }
