@@ -1,7 +1,7 @@
 {
-  "version": "0.10.5",
+  "version": "0.10.6",
   "channel": "stable",
-  "notes": "Reportes visuales, proveedor, pagos y tickets en espera con folio estable; correcciones de códigos y F10.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.5.zip",
-  "sha256": "d4d6ce8bdf2133ecfb3804f3ca85cdd220a02c3e74bec9b0ca9bda30f8c6e824"
+  "notes": "Confirmación azul al sustituir códigos de barras duplicados al crear productos.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.6.zip",
+  "sha256": "d40efc9cae3a4b46dccf15487f50fac066f454608033e830a0922e39381fdecd"
 }
