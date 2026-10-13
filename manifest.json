@@ -1,7 +1,7 @@
 {
-  "version": "0.10.6",
+  "version": "0.10.7",
   "channel": "stable",
-  "notes": "Confirmación azul al sustituir códigos de barras duplicados al crear productos.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.6.zip",
-  "sha256": "d40efc9cae3a4b46dccf15487f50fac066f454608033e830a0922e39381fdecd"
+  "notes": "Corrección de precios persistentes: el catálogo precargado no sobrescribe precios editados al reiniciar, en ningún proveedor.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.7.zip",
+  "sha256": "36183cb9bca88b0cc1357333ac1a6b91b557c088c20682b7f503f0c2b0dcaac6"
 }
