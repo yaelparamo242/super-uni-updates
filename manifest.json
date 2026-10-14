@@ -1,7 +1,7 @@
 {
-  "version": "0.10.7",
+  "version": "0.10.8",
   "channel": "stable",
-  "notes": "Corrección de precios persistentes: el catálogo precargado no sobrescribe precios editados al reiniciar, en ningún proveedor.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.7.zip",
-  "sha256": "36183cb9bca88b0cc1357333ac1a6b91b557c088c20682b7f503f0c2b0dcaac6"
+  "notes": "Mercado Pago Point Smart: cobro F12 Tarjeta F2, orden Point, consulta de pago, registro seguro y sin duplicados",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.8.zip",
+  "sha256": "bbde35f8ccb1f16f6bcade13a1ffadf3e7bde20c148d5bf52702c974bf1ca827"
 }
