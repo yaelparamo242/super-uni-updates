@@ -1,7 +1,7 @@
 {
-  "version": "0.10.8",
+  "version": "0.10.9",
   "channel": "stable",
-  "notes": "Mercado Pago Point Smart: cobro F12 Tarjeta F2, orden Point, consulta de pago, registro seguro y sin duplicados",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.8.zip",
-  "sha256": "bbde35f8ccb1f16f6bcade13a1ffadf3e7bde20c148d5bf52702c974bf1ca827"
+  "notes": "Point: ENTER acepta pago confirmado; estado cada 2 segundos.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.9.zip",
+  "sha256": "ed7f5bd4ef27617923863a524ca780bd0774fb418225c582cb693e139f10500b"
 }
