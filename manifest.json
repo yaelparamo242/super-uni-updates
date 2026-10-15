@@ -1,7 +1,7 @@
 {
-  "version": "0.10.9",
+  "version": "0.10.10",
   "channel": "stable",
-  "notes": "Point: ENTER acepta pago confirmado; estado cada 2 segundos.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.9.zip",
-  "sha256": "ed7f5bd4ef27617923863a524ca780bd0774fb418225c582cb693e139f10500b"
+  "notes": "Point: cerrar pago rechazado con mouse o ENTER; se conserva ticket.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.10.zip",
+  "sha256": "d7239588ed10b95dafed1b8f8ee5ff1fcad993a37c0917d513a181b387556244"
 }
