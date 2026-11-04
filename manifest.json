@@ -1,7 +1,7 @@
 {
-  "version": "0.10.10",
+  "version": "0.10.11",
   "channel": "stable",
-  "notes": "Point: cerrar pago rechazado con mouse o ENTER; se conserva ticket.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.10.zip",
-  "sha256": "d7239588ed10b95dafed1b8f8ee5ff1fcad993a37c0917d513a181b387556244"
+  "notes": "Tickets del día, cancelaciones, inventario RESET, reportes de productos. No incluye retiros con tarjeta ni pagos divididos.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.11.zip",
+  "sha256": "092a7c58dfaab81c45b4e4fae5b3bb3ebbbb74579fbc4e786dc6c733c070300e"
 }
