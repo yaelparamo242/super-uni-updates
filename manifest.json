@@ -1,7 +1,7 @@
 {
-  "version": "0.10.11",
+  "version": "0.10.12",
   "channel": "stable",
-  "notes": "Tickets del día, cancelaciones, inventario RESET, reportes de productos. No incluye retiros con tarjeta ni pagos divididos.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.11.zip",
-  "sha256": "092a7c58dfaab81c45b4e4fae5b3bb3ebbbb74579fbc4e786dc6c733c070300e"
+  "notes": "Interfaz de retiros con calculadora de comisión 10%; Point pendiente de autorización.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.12.zip",
+  "sha256": "b987f5811407891acb2e48bfdceeb97550fdccfd09b86b0298dd3bb9e41d58e2"
 }
