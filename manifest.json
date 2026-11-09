@@ -1,7 +1,7 @@
 {
-  "version": "0.10.13",
+  "version": "0.10.15",
   "channel": "stable",
-  "notes": "Retiros: interfaz de prueba, cálculo 10%, simulación de aprobación y rechazo sin cobro real ni movimiento de caja.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.13.zip",
-  "sha256": "e969501350d6879b2bf2f06953a3d4a79c7489b426b9e865f1b491d4a7706115"
+  "notes": "Cobro manual por importe para productos sin código; envía a Point, verifica aprobación, registra venta separada sin descontar inventario.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.15.zip",
+  "sha256": "58760ad30509a81ac23cef9a1f345110cc410aec9b443ebd75ee86c327b22a6f"
 }
