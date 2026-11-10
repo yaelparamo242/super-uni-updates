@@ -1,7 +1,7 @@
 {
-  "version": "0.10.15",
+  "version": "0.10.16",
   "channel": "stable",
-  "notes": "Cobro manual por importe para productos sin código; envía a Point, verifica aprobación, registra venta separada sin descontar inventario.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.15.zip",
-  "sha256": "58760ad30509a81ac23cef9a1f345110cc410aec9b443ebd75ee86c327b22a6f"
+  "notes": "Cortes independientes por turno y usuario; ventas, tarjeta, transferencias y cancelaciones filtradas al turno; ventas vinculadas a sesion.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.16.zip",
+  "sha256": "b1760a1f76dd466f5ef3916c30dab3df82b2cf51a1dcb1be9f1b495278cad8fb"
 }
