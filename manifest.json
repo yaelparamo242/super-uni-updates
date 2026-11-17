@@ -1,7 +1,7 @@
 {
-  "version": "0.10.16",
+  "version": "0.10.17",
   "channel": "stable",
-  "notes": "Cortes independientes por turno y usuario; ventas, tarjeta, transferencias y cancelaciones filtradas al turno; ventas vinculadas a sesion.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.16.zip",
-  "sha256": "b1760a1f76dd466f5ef3916c30dab3df82b2cf51a1dcb1be9f1b495278cad8fb"
+  "notes": "Corte por turno con conteo de billetes y monedas; total automático sin mostrar sobrantes ni faltantes.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.17.zip",
+  "sha256": "da3f8b9795ffec4b4c8e4fb01978b4323b0ddc01021dca955a1fdf1d38d60d44"
 }
