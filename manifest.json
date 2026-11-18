@@ -1,7 +1,7 @@
 {
-  "version": "0.10.19",
+  "version": "0.10.20",
   "channel": "stable",
-  "notes": "Corrección: botón de cerrar corte visible al desplazar la pantalla de conteo.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.19.zip",
-  "sha256": "23c8c53cea83369324b0205d55f2c304761d7507e22f9dcd83480e2e15c1c91e"
+  "notes": "Botón CERRAR CORTE Y TURNO fijo en la parte superior de CORTE.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.20.zip",
+  "sha256": "c8097de0bbcb44d494d40a0f56b105820b31c73bf066cfd060165b143f2a052f"
 }
