@@ -1,7 +1,7 @@
 {
-  "version": "0.10.18",
+  "version": "0.10.19",
   "channel": "stable",
-  "notes": "Corrección de cierre de corte y confirmación visible.",
-  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.18.zip",
-  "sha256": "2f45654780840e4afb58a80ae2faf00188f28392e0ecbd0d4e0a11ac45f63cfd"
+  "notes": "Corrección: botón de cerrar corte visible al desplazar la pantalla de conteo.",
+  "package_url": "https://raw.githubusercontent.com/yaelparamo242/super-uni-updates/main/SUPER_UNI_UPDATE_0.10.19.zip",
+  "sha256": "23c8c53cea83369324b0205d55f2c304761d7507e22f9dcd83480e2e15c1c91e"
 }
